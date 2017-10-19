@@ -3,165 +3,96 @@
 <plist version="1.0">
 <dict>
 	<key>files</key>
-	<dict/>
+	<dict>
+		<key>Resources/Assets.car</key>
+		<data>
+		xtMFtd6x8t33YtPn9XGdTzQ/gR8=
+		</data>
+		<key>Resources/Info.plist</key>
+		<data>
+		Crb6w6QQPleXWC6W2aLt8+duZ/0=
+		</data>
+		<key>Resources/MagicPresenterUI.js</key>
+		<data>
+		yKZ2LaGhlpLSET4AvXGaintjcOQ=
+		</data>
+		<key>Resources/MagicPresenterUISketchPanelCellDefault.nib</key>
+		<data>
+		LxIv6WyrHmwKGWQAE1IWy5VHgOk=
+		</data>
+		<key>Resources/MagicPresenterUISketchPanelCellHeader.nib</key>
+		<data>
+		GZV9LV0iEcTJRm7l3LL3le9JZOM=
+		</data>
+		<key>Resources/MagicPresenterUISketchPanelCellLayer.nib</key>
+		<data>
+		m/o3btcnP/a/dEk/RWsV6yzcheU=
+		</data>
+		<key>Resources/MagicPresenterWindowController.nib</key>
+		<data>
+		2HMJYg/EuIgrwJYFeX/BMGIIYUw=
+		</data>
+		<key>Resources/generateImage.js</key>
+		<data>
+		uRpFz0EWHB9Ikx1ra3CBksSIG1I=
+		</data>
+	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Sketch/MagicPresenterUI.framework/MagicPresenterUI</key>
+		<key>Resources/Assets.car</key>
 		<dict>
-			<key>symlink</key>
-			<string>Versions/Current/MagicPresenterUI</string>
-		</dict>
-		<key>Sketch/MagicPresenterUI.framework/MagicPresenterUI.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yKZ2LaGhlpLSET4AvXGaintjcOQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			/aorsjoZVwTt64bS4krP2thR8xd0jhnmg8RbRPuyhWE=
-			</data>
-		</dict>
-		<key>Sketch/MagicPresenterUI.framework/Resources</key>
-		<dict>
-			<key>symlink</key>
-			<string>Versions/Current/Resources</string>
-		</dict>
-		<key>Sketch/MagicPresenterUI.framework/Versions/A/MagicPresenterUI</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YARKiXmY3fi87pSRLwlEnnuZAW0=
-			</data>
-			<key>hash2</key>
-			<data>
-			XenQl0IEwPWwbXGFcHgEV2dx8Avk435AjjBRfIfPlCg=
-			</data>
-		</dict>
-		<key>Sketch/MagicPresenterUI.framework/Versions/A/Resources/Assets.car</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xtMFtd6x8t33YtPn9XGdTzQ/gR8=
-			</data>
 			<key>hash2</key>
 			<data>
 			BVUB4ZxGHHfMHuxEbozkG2JJs01B6O3ztmWHG7Wqpvg=
 			</data>
 		</dict>
-		<key>Sketch/MagicPresenterUI.framework/Versions/A/Resources/Info.plist</key>
+		<key>Resources/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Crb6w6QQPleXWC6W2aLt8+duZ/0=
-			</data>
 			<key>hash2</key>
 			<data>
 			E70mSADIKoeK33Fm2BqNdh7Y8goDxIZ79D+jfqfxSBg=
 			</data>
 		</dict>
-		<key>Sketch/MagicPresenterUI.framework/Versions/A/Resources/MagicPresenterUI.js</key>
+		<key>Resources/MagicPresenterUI.js</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yKZ2LaGhlpLSET4AvXGaintjcOQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			/aorsjoZVwTt64bS4krP2thR8xd0jhnmg8RbRPuyhWE=
 			</data>
 		</dict>
-		<key>Sketch/MagicPresenterUI.framework/Versions/A/Resources/MagicPresenterUISketchPanelCellDefault.nib</key>
+		<key>Resources/MagicPresenterUISketchPanelCellDefault.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LxIv6WyrHmwKGWQAE1IWy5VHgOk=
-			</data>
 			<key>hash2</key>
 			<data>
 			W0E+vxe1DnPaLFsVtbeWJwxqYnHInyMpFscAO/mDAR0=
 			</data>
 		</dict>
-		<key>Sketch/MagicPresenterUI.framework/Versions/A/Resources/MagicPresenterUISketchPanelCellHeader.nib</key>
+		<key>Resources/MagicPresenterUISketchPanelCellHeader.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GZV9LV0iEcTJRm7l3LL3le9JZOM=
-			</data>
 			<key>hash2</key>
 			<data>
 			uyKz0KKGKAxWSQKoEKzpHlz9SoUmHxiMmhb6jpQtiHQ=
 			</data>
 		</dict>
-		<key>Sketch/MagicPresenterUI.framework/Versions/A/Resources/MagicPresenterUISketchPanelCellLayer.nib</key>
+		<key>Resources/MagicPresenterUISketchPanelCellLayer.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			m/o3btcnP/a/dEk/RWsV6yzcheU=
-			</data>
 			<key>hash2</key>
 			<data>
 			b+OqqAezxPlcSuQibB/aCBIjBpAwC3bNZiJUF6FaUf0=
 			</data>
 		</dict>
-		<key>Sketch/MagicPresenterUI.framework/Versions/A/Resources/MagicPresenterWindowController.nib</key>
+		<key>Resources/MagicPresenterWindowController.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2HMJYg/EuIgrwJYFeX/BMGIIYUw=
-			</data>
 			<key>hash2</key>
 			<data>
 			mZd96WyoMmVBEW0oLc/7GYcqN1cU4conmYxtTWl8ZRU=
 			</data>
 		</dict>
-		<key>Sketch/MagicPresenterUI.framework/Versions/A/Resources/generateImage.js</key>
+		<key>Resources/generateImage.js</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uRpFz0EWHB9Ikx1ra3CBksSIG1I=
-			</data>
 			<key>hash2</key>
 			<data>
 			HaHircpSXjtKP0ZN2jhE+vmOcu8fhBGG12SAAKhSWHU=
-			</data>
-		</dict>
-		<key>Sketch/MagicPresenterUI.framework/Versions/A/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CWyv/BbtPVHKfNNSeG2KTNUnzp0=
-			</data>
-			<key>hash2</key>
-			<data>
-			5KKlRTUtGf8UBQd8lh324nNAhFz8Kq4/D12E2N6dU88=
-			</data>
-		</dict>
-		<key>Sketch/MagicPresenterUI.framework/Versions/Current</key>
-		<dict>
-			<key>symlink</key>
-			<string>A</string>
-		</dict>
-		<key>Sketch/manifest.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Apwu8SkqzCgNd1/2rvY8OBniN0E=
-			</data>
-			<key>hash2</key>
-			<data>
-			kp1MAKBqEDglD6bNlTs0WSCO8uHIeH5xO/PaIkqlZqo=
-			</data>
-		</dict>
-		<key>Sketch/script.cocoscript</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1wdBuTc117+H0WGILLHPGxWNqK0=
-			</data>
-			<key>hash2</key>
-			<data>
-			ZnMkAZVoB20ixTSBaxjYhM31SafntknbY/VelSBA5Q0=
 			</data>
 		</dict>
 	</dict>

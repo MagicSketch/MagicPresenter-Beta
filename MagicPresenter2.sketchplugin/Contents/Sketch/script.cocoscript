@@ -1,10 +1,33 @@
+
+var getMagicPresenter = function(context) {
+    if ( ! context.document) {
+        return nil;
+    }
+
+    var app = [MSDocument currentDocument];
+    var key = app + "-MagicPresenter";
+
+    var presenter = Mocha.sharedRuntime().valueForKey(key);
+    if ( ! presenter) {
+        presenter = MagicPresenter.alloc().initWithContext(context);
+        Mocha.sharedRuntime().setValue_forKey_(presenter, key);
+    }
+
+    return presenter;
+}
+
+
 var onRun = function(context) {
-  log("onRun");
-  context.document.showMessage("onRun");
+    log("onRun");
+    var presenter = getMagicPresenter(context);
+    presenter.play(context)
+    context.document.showMessage("onRun" + presenter);
+    coscript.setShouldKeepAround(true)
 }
 
 var onStartup = function(context) {
-  log("onStartup");
+    var presenter = getMagicPresenter(context);
+    log("onStartup");
 }
 
 var onOpenDocument = function(context) {
@@ -13,5 +36,5 @@ var onOpenDocument = function(context) {
 
 var onSelectionChanged = function(context) {
   log("onSelectionChanged");
-  context.actionContext.document.showMessage("onSelectionChanged");
+//  context.actionContext.document.showMessage("onSelectionChanged");
 }
