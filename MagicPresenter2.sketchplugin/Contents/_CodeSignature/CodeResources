@@ -6,6 +6,43 @@
 	<dict/>
 	<key>files2</key>
 	<dict>
+		<key>Sketch/MagicPresenterUI.framework/Frameworks/MPTracker.framework/MPTracker</key>
+		<dict>
+			<key>symlink</key>
+			<string>Versions/Current/MPTracker</string>
+		</dict>
+		<key>Sketch/MagicPresenterUI.framework/Frameworks/MPTracker.framework/Resources</key>
+		<dict>
+			<key>symlink</key>
+			<string>Versions/Current/Resources</string>
+		</dict>
+		<key>Sketch/MagicPresenterUI.framework/Frameworks/MPTracker.framework/Versions/A/MPTracker</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			71XwrXWjGbO1rwyOGyAsn9bcGao=
+			</data>
+			<key>hash2</key>
+			<data>
+			/Waj9gw6EZilpzn/a+EQwcbY6s21mjmf2v5IRwwcQ2E=
+			</data>
+		</dict>
+		<key>Sketch/MagicPresenterUI.framework/Frameworks/MPTracker.framework/Versions/A/Resources/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jHwhBEjnWjOMhGdFpzC8Wv4/NuY=
+			</data>
+			<key>hash2</key>
+			<data>
+			zOc/D6XsSrQih+ZX4ZviVtHaAKKV580A1N6jx3kYKVs=
+			</data>
+		</dict>
+		<key>Sketch/MagicPresenterUI.framework/Frameworks/MPTracker.framework/Versions/Current</key>
+		<dict>
+			<key>symlink</key>
+			<string>A</string>
+		</dict>
 		<key>Sketch/MagicPresenterUI.framework/MagicPresenterUI</key>
 		<dict>
 			<key>symlink</key>
@@ -31,22 +68,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YARKiXmY3fi87pSRLwlEnnuZAW0=
+			e/AOOMclCNGmzjs7JQbe379fMIk=
 			</data>
 			<key>hash2</key>
 			<data>
-			XenQl0IEwPWwbXGFcHgEV2dx8Avk435AjjBRfIfPlCg=
+			0PO/AreKyDdTVebqV3YrcdVtYDuQiaZcpIBCFBYQi7s=
 			</data>
 		</dict>
 		<key>Sketch/MagicPresenterUI.framework/Versions/A/Resources/Assets.car</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xtMFtd6x8t33YtPn9XGdTzQ/gR8=
+			cft2iDd4zTkRglqSP1LeuKvUdmk=
 			</data>
 			<key>hash2</key>
 			<data>
-			BVUB4ZxGHHfMHuxEbozkG2JJs01B6O3ztmWHG7Wqpvg=
+			2hft8bFnq3Pq88WCst5Jr+LNvNjVdfrLh5LWnuOTCNM=
 			</data>
 		</dict>
 		<key>Sketch/MagicPresenterUI.framework/Versions/A/Resources/Info.plist</key>
@@ -130,11 +167,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CWyv/BbtPVHKfNNSeG2KTNUnzp0=
+			s/PlJk1TeJUJnltpXSRcdvh+JSw=
 			</data>
 			<key>hash2</key>
 			<data>
-			5KKlRTUtGf8UBQd8lh324nNAhFz8Kq4/D12E2N6dU88=
+			2W5kuKxyJD/G07wTqDud+wKXH2QoplrzS1Ry/EpwZmA=
 			</data>
 		</dict>
 		<key>Sketch/MagicPresenterUI.framework/Versions/Current</key>
@@ -146,11 +183,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Apwu8SkqzCgNd1/2rvY8OBniN0E=
+			hcKMLhU/j5AADQzuo45Xp/Q21Jw=
 			</data>
 			<key>hash2</key>
 			<data>
-			kp1MAKBqEDglD6bNlTs0WSCO8uHIeH5xO/PaIkqlZqo=
+			ICA2h+Orqg7zfci74ZOPDgVkq5VkeC1NUjL49Qsy4JI=
 			</data>
 		</dict>
 		<key>Sketch/script.cocoscript</key>

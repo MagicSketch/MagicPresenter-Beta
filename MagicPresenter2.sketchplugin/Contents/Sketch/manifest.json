@@ -2,13 +2,13 @@
 	"name": "MagicPresenter2",
 	"description" : "Present Your Deck/Slides in Sketch",
 	"author": "James Tang",
-	"authorEmail" : "jamz@magicsketch.io",
+	"authorEmail" : "james@magicsketch.io",
 	"homepage": "magicsketch.io",
 	"identifier" : "io.magicsketch.MagicPresenter2",
 	"compatibleVersion": "47",
-	"build": 1,
+	"build": 2,
 	"version": "2.0.1",
-    "appcast": "https://api.sketchpacks.com/v1/plugins/io.magicsketch.MagicPresenter2/appcast",
+    "appcast": "https://api.magicsketch.io/r/presenter/appcast.xml",
 
 	"commands": [
 		{
